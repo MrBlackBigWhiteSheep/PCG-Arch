@@ -1,4 +1,4 @@
 # PCG-Arch
-Physics-Guided Progressive Learning for Efficient Underwater Image Enhancement
+PCG-Arch: A Physics-Constrained Generative Architecture for Physically Consistent Underwater Image Enhancement)
 
 If the paper is accepted, the source code will be made open-source.
